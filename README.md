@@ -29,6 +29,8 @@ necessary for submitting the assignment.
 
 
 ## Resources
+https://medium.com/@imyzf/netpractice-2d2b39b6cf0a
+
 > TODO
 
 > TCP/IP addressing, subnet masks, default gateways, routers and switches, OSI layers
